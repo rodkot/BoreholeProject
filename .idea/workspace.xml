@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ea87d0-646c-46e4-8c0c-fb5b7f10cac8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/photos/sturges_rule.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataset_info.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_info.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
